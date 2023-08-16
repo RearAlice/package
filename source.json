@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://newdays-git.github.io/vpm/profile.json",
+    "url":"https://newdays-git.github.io/package/profile.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat JP",
