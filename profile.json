@@ -2,7 +2,6 @@
 {
   "name": "VRChat Tools",
   "id": "io.github.vpm",
-  "author": "",
   "url": "https://newdays-git.github.io/vpm/profile.json",
   "author":{
     "email":"developer@vrchat.com",
@@ -595,6 +594,5 @@
         }
       }
     }
-
   }
 }
