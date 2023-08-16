@@ -13,11 +13,6 @@
     "url":"https://newdays-git.github.io/vpm/",
     "text":"View on Web"
 },
-
-  "bannerUrl":"banner.png",
-  "githubRepos":[
-      "newdays-git/package"
-  ],
   "packages": {
     "com.github.kurotu.vrc-quest-tools": {
       "versions": {
