@@ -16,7 +16,7 @@
 
   "bannerUrl":"banner.png",
   "githubRepos":[
-      "vrchat-community/clientsim"
+      "newdays-git/package"
   ],
   "packages": {
     "com.github.kurotu.vrc-quest-tools": {
