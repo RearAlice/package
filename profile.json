@@ -2,8 +2,23 @@
 {
   "name": "VRChat Tools",
   "id": "io.github.vpm",
-  "author": "Mika",
+  "author": "",
   "url": "https://newdays-git.github.io/vpm/profile.json",
+  "author":{
+    "email":"developer@vrchat.com",
+    "name":"Mika",
+    "url":"https://hello.vrchat.com"
+},
+"description":"VRChat packages",
+"infoLink":{
+    "url":"https://newdays-git.github.io/vpm/",
+    "text":"View on Web"
+},
+
+  "bannerUrl":"banner.png",
+  "githubRepos":[
+      "vrchat-community/clientsim"
+  ],
   "packages": {
     "com.github.kurotu.vrc-quest-tools": {
       "versions": {
